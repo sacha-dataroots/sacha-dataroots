@@ -1,6 +1,6 @@
 # Hey There, Fellow Coder! 👋
 
-Welcome, welcome to this little corner of the coding cosmos, where organization meets innovation, and projects come to life with a sprinkle of tech wizardry!
+Welcome to this little corner of the coding cosmos, where organization meets innovation, and projects come to life with a sprinkle of tech wizardry!
 
 ## Who Am I?
 
